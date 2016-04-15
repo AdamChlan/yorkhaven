@@ -13,6 +13,18 @@ wp-content/uploads/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
 
+.DS_Store
+*.sass-cache*
+*.log
+wp-content/themes/Yorkhaven/node_modules/
+wp-content/themes/Yorkhaven/assets/stylesheets/
+wp-content/themes/Yorkhaven/assets/components/
+wp-content/themes/Yorkhaven/assets/javascript/vendor/
+wp-content/themes/Yorkhaven/assets/javascript/foundation.js
+wp-content/themes/Yorkhaven/assets/javascript/custom/demosite.js
+wp-content/themes/Yorkhaven/packaged/
+wp-content/themes/Yorkhaven/wpcs/
+
 /readme.html
 /license.txt
 
